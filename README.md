@@ -43,11 +43,3 @@ Self determination and collectivism are essential and Deaf people should have pr
 We need you to stand up among hearing professionals, sign language interpreters, school boards and teachers and administrators, hearing families, and in political organizations and movements.  Take the power of your voice outside the safe confines of our community and bring our message to everyone. Help us affect positive change for our community.
 
 ![Image of sun behind clouds overlooking mountains](/assets/images/clouds.jpg)
-
-### About these guidelines
-
-This text was created with contributions from Deaf people engaged in the practice of social justice in an attempt to reduce audism, phonocentrism, and shift the balance of power and privilege within the Deaf community.  This is a living document that intends to address the underlying principles of hearing allyship -- to that end, we welcome contributions and input based on what is currently relevant.  Your contributions, input, and discussion are welcome.  The site has been [hosted at Github](https://github.com/thornomad/hearing-allyship/issues) in an attempt to make the text freely available to the community and to engage in conversation that moves all of us forward.
-
----
-
-> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Guiding Principles for Hearing Allyship</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="hearingallyship.org" property="cc:attributionName" rel="cc:attributionURL">hearingallyship.org</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
