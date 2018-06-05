@@ -47,3 +47,7 @@ We need you to stand up among hearing professionals, sign language interpreters,
 ### About these guidelines
 
 This text was created with contributions from Deaf people engaged in the practice of social justice in an attempt to reduce audism, phonocentrism, and shift the balance of power and privilege within the Deaf community.  We welcome contributions and input.  The site has been hosted at Github in an attempt to make the text freely available to the community and to engage in conversation that moves all of us forward.
+
+---
+
+> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Guiding Principles for Hearing Allyship</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="hearingallyship.org" property="cc:attributionName" rel="cc:attributionURL">hearingallyship.org</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
