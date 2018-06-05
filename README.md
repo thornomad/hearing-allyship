@@ -1,9 +1,8 @@
-# Guiding Principles for Hearing Allyship
 ## A Working Document
 
-We need hearing accomplices actively engaging in the practice of allyship to the sighted* Deaf signing community.  Sound like something you would be interested in?   Here are five things we need you to do.
+We need hearing accomplices actively engaging in the practice of allyship to the Deaf signing community.*  Sound like something you would be interested in?   Here are five things we need you to do.
 
-*We want to honor and uplift the DeafBlind community too. DeafBlind people will have different guiding principles that are more specific to their experiences with vidism and distantism. [Read Disantism by John Lee Clark](https://johnleeclark.tumblr.com/post/163762970913/distantism) for more insight, specifically about the sighted Deaf signing community.*
+*\*We want to honor and uplift the DeafBlind community too. DeafBlind people will have different guiding principles that are more specific to their experiences with vidism and distantism. [Read Disantism by John Lee Clark](https://johnleeclark.tumblr.com/post/163762970913/distantism) for more insight, specifically about the sighted Deaf signing community.*
 
 ## #1 - Listen to us.  
 
