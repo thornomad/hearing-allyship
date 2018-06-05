@@ -22,7 +22,7 @@ You should always use a visual mode of communication when in a Deaf space.  If y
 Deaf people are part of a historically oppressed and marginalized community and may have developed a habit of either ignoring or not recognizing audism and oppressive behavior from the general public, their families, and friends. Many Deaf people have internalized the beliefs and actions of their oppressors; this internalization does not give hearing people the right to perpetuate it.
 
 ## #3 - Nothing about us, without us.
-**Any undertaking you embark on for the Deaf community is done alongside the Deaf community.  Decision making, research, instruction, presentations, and workshops on topics that pertain to the Deaf Community should always be undertaken in equal partnership with Deaf stakeholders.**
+**Any undertaking you embark on for the Deaf community is done alongside the Deaf community.  Decision making, research, instruction, presentations, and workshops on topics that pertain to certain groups within the Deaf Community should always be undertaken in equal partnership with Deaf stakeholders from those groups.**
 
 Deaf people should always be part of, and have majority ownership of, all decision-making processes pertaining to them, their education, their community, and their services.  If you are working in any field that pertains to Deaf people your work should be done alongside other Deaf people either in equal partnership or with yourself having minority ownership.  Your explicit long-term goal should always be elevating more Deaf people into positions of leadership and ownership in these areas.  You should not develop public policy, curriculums, articles, workshops, theses, lectures, and infographics without community partnership.  If you want to do your work alone, as a hearing person, you should seek a profession that caters to hearing people.  
 
@@ -41,3 +41,7 @@ Self determination and collectivism are essential and Deaf people should have pr
 **Don't just sit there -- do something.  Use your voice, your power, and your privilege to elevate and uplift our community. Speak up and push back. Don’t toe the line and settle into a place of comfort devoid of conflict. Bring light to our needs, values, and story to the broader public.  Address hearing privilege, oppression, and audism with both your hearing signing and non-signing peers.  Don't hide among us.**  
 
 We need you to stand up among hearing professionals, sign language interpreters, school boards and teachers and administrators, hearing families, and in political organizations and movements.  Take the power of your voice outside the safe confines of our community and bring our message to everyone. Help us affect positive change for our community.
+
+### About these guidelines
+
+This text was created with contributions from Deaf people engaged in the practice of social justice in an attempt to reduce audism, phonocentrism, and shift the balance of power and privilege within the Deaf community.  We welcome contributions and input.  The site has been hosted at Github in an attempt to make the text freely available to the community and to engage in conversation that moves all of us forward.
