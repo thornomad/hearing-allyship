@@ -1,8 +1,8 @@
-## A Working Document
+## A Living Document
 
-We need hearing accomplices actively engaging in the practice of allyship to the Deaf signing community.*  Sound like something you would be interested in?   Here are five things we need you to do.
+We need hearing accomplices actively engaging in the practice of allyship to the _sighted Deaf signing community_.*  Sound like something you would be interested in?   Here are five things we need you to do.
 
-*\*We want to honor and uplift the DeafBlind community too. DeafBlind people will have different guiding principles that are more specific to their experiences with vidism and distantism. [Read Disantism by John Lee Clark](https://johnleeclark.tumblr.com/post/163762970913/distantism) for more insight, specifically about the sighted Deaf signing community.*
+*\*We want to honor and respect members of the DeafBlind community and acknowledge that sighted Deaf people still have a lot of work to do related to our own allyship with our DeafBlind peers. DeafBlind people will have different guiding principles that are more specific to their experiences with vidism and distantism as it relates to marginalization by both hearing and Deaf individuals. [Read Disantism by John Lee Clark](https://johnleeclark.tumblr.com/post/163762970913/distantism) for more insight, specifically about the sighted Deaf signing community.  We feel that many of these principles can apply to Deaf individuals of varied backgrounds, we acknowledge that #2's focus on creating visual-centric spaces is exclusive to sighted people; when DeafBlind people are present, we would hope to create an inclusive "DeafBlind space" in the same way we expect hearing people to create a space for sighted Deaf people.*
 
 ## #1 - Listen to us.  
 
@@ -30,15 +30,15 @@ Deaf people should always be part of, and have majority ownership of, all decisi
 
 **Do not take financial resources, employment opportunities, or positions of power in Deaf-related fields away from Deaf people.**
 
-Self determination and collectivism are essential and Deaf people should have priority to work in Deaf-related fields always.  As a hearing person, your active engagement and allyship is important, but not at the expense of the work a Deaf person could be doing on behalf of their own community.  This applies to all work done within disabled or marginalized communities.  If your goal is to elevate yourself to a position of power and influential status seek these opportunities elsewhere.
+Self determination and collectivism are essential and Deaf people should have priority to work in Deaf-related fields always.  As a hearing person, your active engagement and allyship is important, but not at the expense of the work a Deaf person could be doing on behalf of their own community.  Deaf people suffer economic injustice and greater rates of unemployement and limited access to job opportunities -- we need you to reverse this trend.  This applies to all work done within disabled or marginalized communities.  If your goal is to elevate yourself to a position of power and influential status, seek these opportunities elsewhere.
 
 * If you are already in a position that should be held by a Deaf person, actively work to mentor and grow the pool of eventual replacements and ensure that your successor comes from within the community.  
-* If you are in a position to hire, ensure that you have exhausted all efforts to recruit, develop internally, mentor, and publicize the position to Deaf people and address the fundamental inequities of hiring systems tailored to reward people of privilege, access, and opportunity; acknowledge that by simply applying "standard" hiring practices you are perpetuating implicit biases and excluding the very people we seek to elevate; hearing people will always look better on paper, will always have access to more experience and knowledge, will always have the upper hand; level this playing field
+* If you are in a position to hire, ensure that you have exhausted all efforts to recruit, develop internally, mentor, and publicize the position to Deaf people and address the fundamental inequities of hiring systems tailored to reward people of privilege, access, and opportunity; acknowledge that by simply applying "standard" hiring practices you are perpetuating implicit biases and excluding the very people we seek to elevate; hearing people will always look better on paper, will always have access to more experience and knowledge, will always have the upper hand; level this playing field for us
 * If you are applying for a new position within the community, ensure that Deaf people have been sought after and prioritized (as above) before accepting the job; if no Deaf people are available for the position make it your goal to find your successor
 * If you are applying for grants or other funding, the money acquired should go back to the community by hiring Deaf co-researchers, assistants, interns or similar. There are limited funds and resources available to the Deaf community. Hearing people and organizations should not benefit from them personally.
  
 ## #5 - Take your allyship on the road.  
-**Don't just sit there -- do something.  Use your voice, your power, and your privilege to elevate and uplift our community. Speak up and push back. Don’t toe the line and settle into a place of comfort devoid of conflict. Bring light to our needs, values, and story to the broader public.  Address hearing privilege, oppression, and audism with both your hearing signing and non-signing peers.  Don't hide among us.**  
+**Don't just sit there -- do something.  Use your voice, your power, and your privilege to elevate our community. Speak up and push back. Don’t toe the line and settle into a place of comfort devoid of conflict. Bring light to our needs, values, and story to the broader public.  Address hearing privilege, oppression, and audism with both your hearing signing and non-signing peers.  Don't hide among us.**  
 
 We need you to stand up among hearing professionals, sign language interpreters, school boards and teachers and administrators, hearing families, and in political organizations and movements.  Take the power of your voice outside the safe confines of our community and bring our message to everyone. Help us affect positive change for our community.
 
@@ -46,7 +46,7 @@ We need you to stand up among hearing professionals, sign language interpreters,
 
 ### About these guidelines
 
-This text was created with contributions from Deaf people engaged in the practice of social justice in an attempt to reduce audism, phonocentrism, and shift the balance of power and privilege within the Deaf community.  We welcome contributions and input.  The site has been hosted at Github in an attempt to make the text freely available to the community and to engage in conversation that moves all of us forward.
+This text was created with contributions from Deaf people engaged in the practice of social justice in an attempt to reduce audism, phonocentrism, and shift the balance of power and privilege within the Deaf community.  This is a living document that intends to address the underlying principles of hearing allyship -- to that end, we welcome contributions and input based on what is currently relevent.  Your contributions, input, and discussion are welcome.  The site has been [hosted at Github](https://github.com/thornomad/hearing-allyship/issues) in an attempt to make the text freely available to the community and to engage in conversation that moves all of us forward.
 
 ---
 
