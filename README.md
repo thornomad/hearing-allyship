@@ -41,5 +41,3 @@ Self determination and collectivism are essential and Deaf people should have pr
 **Don't just sit there -- do something.  Use your voice, your power, and your privilege to elevate our community. Speak up and push back. Don’t toe the line and settle into a place of comfort devoid of conflict. Bring light to our needs, values, and story to the broader public.  Address hearing privilege, oppression, and audism with both your hearing signing and non-signing peers.  Don't hide among us.**  
 
 We need you to stand up among hearing professionals, sign language interpreters, school boards and teachers and administrators, hearing families, and in political organizations and movements.  Take the power of your voice outside the safe confines of our community and bring our message to everyone. Help us affect positive change for our community.
-
-![Image of sun behind clouds overlooking mountains](/assets/images/clouds.jpg)
