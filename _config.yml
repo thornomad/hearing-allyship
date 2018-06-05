@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 title: Guiding Principles
 description: for Hearing Allyship
-nav_list:
-  Home: ['Home', '/', 'fa-home']
-  About ['About', '/about', 'fa-info-circle']
-  Contribute ['Contribute', 'https://github.com/thornomad/hearing-allyship/', 'fa-github']
+github:
+  owner_name: the Deaf community
+  owner_url: 
