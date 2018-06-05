@@ -42,7 +42,8 @@ Self determination and collectivism are essential and Deaf people should have pr
 
 We need you to stand up among hearing professionals, sign language interpreters, school boards and teachers and administrators, hearing families, and in political organizations and movements.  Take the power of your voice outside the safe confines of our community and bring our message to everyone. Help us affect positive change for our community.
 
----
+![Image of sun behind clouds overlooking mountains]
+(/clouds.jpg)
 
 ### About these guidelines
 
