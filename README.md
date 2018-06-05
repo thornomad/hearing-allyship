@@ -46,7 +46,7 @@ We need you to stand up among hearing professionals, sign language interpreters,
 
 ### About these guidelines
 
-This text was created with contributions from Deaf people engaged in the practice of social justice in an attempt to reduce audism, phonocentrism, and shift the balance of power and privilege within the Deaf community.  This is a living document that intends to address the underlying principles of hearing allyship -- to that end, we welcome contributions and input based on what is currently relevent.  Your contributions, input, and discussion are welcome.  The site has been [hosted at Github](https://github.com/thornomad/hearing-allyship/issues) in an attempt to make the text freely available to the community and to engage in conversation that moves all of us forward.
+This text was created with contributions from Deaf people engaged in the practice of social justice in an attempt to reduce audism, phonocentrism, and shift the balance of power and privilege within the Deaf community.  This is a living document that intends to address the underlying principles of hearing allyship -- to that end, we welcome contributions and input based on what is currently relevant.  Your contributions, input, and discussion are welcome.  The site has been [hosted at Github](https://github.com/thornomad/hearing-allyship/issues) in an attempt to make the text freely available to the community and to engage in conversation that moves all of us forward.
 
 ---
 
