@@ -42,6 +42,8 @@ Self determination and collectivism are essential and Deaf people should have pr
 
 We need you to stand up among hearing professionals, sign language interpreters, school boards and teachers and administrators, hearing families, and in political organizations and movements.  Take the power of your voice outside the safe confines of our community and bring our message to everyone. Help us affect positive change for our community.
 
+---
+
 ### About these guidelines
 
 This text was created with contributions from Deaf people engaged in the practice of social justice in an attempt to reduce audism, phonocentrism, and shift the balance of power and privilege within the Deaf community.  We welcome contributions and input.  The site has been hosted at Github in an attempt to make the text freely available to the community and to engage in conversation that moves all of us forward.
