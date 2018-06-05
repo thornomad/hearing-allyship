@@ -12,7 +12,7 @@ When Deaf people are hurting, angry, downtrodden, bitter or downright mad we nee
 
 ## #2 - Create, protect, value, foster, and embrace Deaf spaces.  
 
-**Deaf spaces are visual-centric and can be either [1] a physical space that belongs to the Deaf community regardless of who is present (e.g. a Deaf school, or a Deaf-related or sign language-related conference) or [2] any space that you share with Deaf people in public (e.g., a restaurant or museum).** 
+**Deaf spaces are visual-centric and can be either [1] a physical space that belongs to the Deaf community regardless of who is present (e.g. a Deaf school, or a Deaf-related or sign language-related conference) or [2] any space that you share with Deaf people in public (e.g., a restaurant or museum).**
 
 You should always use a visual mode of communication when in a Deaf space.  If you do not know sign language, come with the expectation that you will be communicating without your voice.  Deaf people should never need to ask you to not use your voice, to use sign language, to gesture, or to use paper and pen to communicate in a Deaf space. You should be doing this already.
 
@@ -36,13 +36,13 @@ Self determination and collectivism are essential and Deaf people should have pr
 * If you are in a position to hire, ensure that you have exhausted all efforts to recruit, develop internally, mentor, and publicize the position to Deaf people and address the fundamental inequities of hiring systems tailored to reward people of privilege, access, and opportunity; acknowledge that by simply applying "standard" hiring practices you are perpetuating implicit biases and excluding the very people we seek to elevate; hearing people will always look better on paper, will always have access to more experience and knowledge, will always have the upper hand; level this playing field for us
 * If you are applying for a new position within the community, ensure that Deaf people have been sought after and prioritized (as above) before accepting the job; if no Deaf people are available for the position make it your goal to find your successor
 * If you are applying for grants or other funding, the money acquired should go back to the community by hiring Deaf co-researchers, assistants, interns or similar. There are limited funds and resources available to the Deaf community. Hearing people and organizations should not benefit from them personally.
- 
+
 ## #5 - Take your allyship on the road.  
 **Don't just sit there -- do something.  Use your voice, your power, and your privilege to elevate our community. Speak up and push back. Don’t toe the line and settle into a place of comfort devoid of conflict. Bring light to our needs, values, and story to the broader public.  Address hearing privilege, oppression, and audism with both your hearing signing and non-signing peers.  Don't hide among us.**  
 
 We need you to stand up among hearing professionals, sign language interpreters, school boards and teachers and administrators, hearing families, and in political organizations and movements.  Take the power of your voice outside the safe confines of our community and bring our message to everyone. Help us affect positive change for our community.
 
-![Image of sun behind clouds overlooking mountains](clouds.jpg)
+![Image of sun behind clouds overlooking mountains](/assets/images/clouds.jpg)
 
 ### About these guidelines
 
