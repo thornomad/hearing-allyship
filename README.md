@@ -6,7 +6,7 @@
 
 ## #1 - Listen to us.  
 
-**The Deaf Community's collectivist needs take priority over your personal feelings.  We don't need you to explain, justify, point fingers, or blame.  Change hurts.  Deaf people are a historically oppressed minority whose current status and suffering are directly tied to the actions (or lack of action) of hearing people.  Don't take that anger and resentment personally; this is not about your feelings or personal opinions.  It's about lifting up the community together.**
+**The Deaf Community's collectivist needs take priority over your personal feelings.  We don't need you to explain, justify, point fingers, or blame.  Change is uncomfortable.  Deaf people are a historically oppressed minority whose current status and suffering are directly tied to the actions (or lack of action) of hearing people.  Don't take that anger and resentment personally; this is not about your feelings or personal opinions.  It's about lifting up the community together.**
 
 When Deaf people are hurting, angry, downtrodden, bitter or downright mad we need you to listen.  Just listen.  We know you are a good person.  We know you have a good heart.  We know you are not intentionally causing harm.  That isn't what this about.  This isn't a personal attack.  This is about unpacking and understanding the system we operate under; this is about recognizing implicit and systematic inequalities; this is about changing our awareness and how we think and speak and act.  Put down your defenses and sit with us for a moment.
 
