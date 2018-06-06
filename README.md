@@ -4,6 +4,8 @@
 
 > \*We want to honor and respect members of the DeafBlind community and acknowledge that sighted Deaf people still have a lot of work to do related to our own allyship with our DeafBlind peers. DeafBlind people will have different guiding principles that are more specific to their experiences with vidism and distantism as it relates to marginalization by both hearing and Deaf individuals. [Read Disantism by John Lee Clark](https://johnleeclark.tumblr.com/post/163762970913/distantism) for more insight, specifically about the sighted Deaf signing community.  We feel that many of these principles can apply to Deaf individuals of varied backgrounds, we acknowledge that #3's focus on creating visual-centric spaces is exclusive to sighted people; when DeafBlind people are present, we would hope to create an inclusive "DeafBlind space" in the same way we expect hearing people to create a space for sighted Deaf people.
 
+> Versions of these guidelines in American Sign Language, other sign languages, and other written languages are desired.  Please share if you are willing to create them and they can be linked to here.
+
 ## #1 - Listen to us.  
 
 **The Deaf Community's collectivist needs take priority over your personal feelings.  We don't need you to explain, justify, point fingers, or blame.  Change is uncomfortable.  Deaf people are a historically oppressed minority whose current status and suffering are directly tied to the actions (or lack of action) of hearing people.  Don't take that anger and resentment personally; this is not about your feelings or personal opinions.  It's about lifting up the community together.**
