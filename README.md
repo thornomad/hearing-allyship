@@ -12,7 +12,7 @@ When Deaf people are hurting, angry, downtrodden, bitter or downright mad we nee
 
 ## #2 - Create, protect, value, foster, and embrace Deaf spaces.  
 
-**Not everyone has access sound: Deaf spaces are visual-centric and can be either [1] a physical space that belongs to the Deaf community regardless of who is present (e.g. a Deaf school, or a Deaf-related or sign language-related conference) or [2] any space that you share with Deaf people in public (e.g., a restaurant or museum).**
+**Not everyone has access to sound: Deaf spaces are visual-centric and can be either [1] a physical space that belongs to the Deaf community regardless of who is present (e.g. a Deaf school, or a Deaf-related or sign language-related conference) or [2] any space that you share with Deaf people in public (e.g., a restaurant or museum).**
 
 Default to using a visual mode of communication when in a Deaf space.  If you do not know sign language, come with the expectation and cultural humliity that you will be communicating without your voice.  When sound is used to communicate in a Deaf space we exclude the people the space belongs to from that direct connection to the interaction.  To promote equity and equality we need you to eliminate what sets us apart: access to the sounds of communication.
 
