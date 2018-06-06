@@ -46,6 +46,6 @@ Self determination and collectivism are essential and Deaf people should have pr
 
 We need you to stand up among hearing professionals, sign language interpreters, school boards and teachers and administrators, hearing families, and in political organizations and movements.  Take the power of your voice outside the safe confines of our community and bring our message to everyone. Help us affect positive change for our community.  Do this work alongside us, aligned with our values, and at our behest -- together.  
 
-And don't stop there.  This isn't the only systematic injustice we need to rally against: people of color need us, queer people need us, transgender people, and Disabled people all need us to engage.  We all need each other.  We all need to show up, listen, and then act.
+And don't stop there.  This isn't the only systematic injustice we need to rally against: People of Color need us, Queer people need us, Transgender people, and Disabled people all need us to engage.  We all need each other.  We all need to show up, listen, and then act.
 
 We are consciously using the term _allyship_ to emphasize that the principles outlined above serve as a framework for action -- not as a final destination or a badge that you can achieve.  There isn't a finish line, or a series of checkboxes to complete, or blank space on your CV that will indicate your work is done.  This work requires active participation, engagement, unpacking, re-evaluating, and unlearning from all of us.    
